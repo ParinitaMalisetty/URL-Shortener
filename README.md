@@ -54,3 +54,9 @@ How To Run Locally-
 To execute the application-
 
 >python app.py
+
+Then open http://127.0.0.1:5000 in your browser.
+
+📄 License
+
+This project is licensed under the MIT License.
