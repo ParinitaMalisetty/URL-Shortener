@@ -5,6 +5,7 @@ A clean, customizable, and responsive URL shortener web application built using 
 This project allows users to generate short links from long URLs with optional custom aliases, track redirection, and copy links easily — all with a modern interface.
 
 🚀 Features-
+
 🔗 Shorten any valid URL
 
 ✏️ Optional custom alias (e.g., /my-brand-name)
